@@ -1,0 +1,13 @@
+C:\Users\Acer\Documents\aulapc\gitfacil\bin\Debug\netcoreapp3.1\gitfacil.exe
+C:\Users\Acer\Documents\aulapc\gitfacil\bin\Debug\netcoreapp3.1\gitfacil.deps.json
+C:\Users\Acer\Documents\aulapc\gitfacil\bin\Debug\netcoreapp3.1\gitfacil.runtimeconfig.json
+C:\Users\Acer\Documents\aulapc\gitfacil\bin\Debug\netcoreapp3.1\gitfacil.runtimeconfig.dev.json
+C:\Users\Acer\Documents\aulapc\gitfacil\bin\Debug\netcoreapp3.1\gitfacil.dll
+C:\Users\Acer\Documents\aulapc\gitfacil\bin\Debug\netcoreapp3.1\gitfacil.pdb
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.AssemblyInfo.cs
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.dll
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.pdb
+C:\Users\Acer\Documents\aulapc\gitfacil\obj\Debug\netcoreapp3.1\gitfacil.genruntimeconfig.cache
